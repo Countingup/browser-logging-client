@@ -1,23 +1,23 @@
-# browser-logging
+# browser-logging-client
 
 Listens for logs from [browser-logging-server](https://www.npmjs.com/package/browser-logging-server).
 
 This is useful for retrieving Cypress UI test browser logs.
 
-Any message sent to `console.log`, `console.warn` and `console.error` will also be sent to and logged by the logging server.
+Any message sent to `console.log`, `console.warn` and `console.error` will be sent to and logged by the logging server.
 
 ### Usage
 
 Add the dependency to your project with:
 
 ```
-yarn add browser-logging-server
+yarn add browser-logging-client
 ```
 
 or
 
 ```
-npm install browser-logging-server
+npm install browser-logging-client
 ```
 
 Then import & initialise at the root of your application.
