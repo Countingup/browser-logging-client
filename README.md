@@ -1,6 +1,6 @@
 # browser-logging-client
 
-Sends browser logs to [browser-logging-server](https://www.npmjs.com/package/browser-logging-server).
+Sends browser logs to [browser-logging-server](https://www.npmjs.com/package/browser-logging-server). PLEASE NOTE the server package is no longer maintained and the repository has been archived.
 
 This is useful for retrieving Cypress UI test browser logs.
 
