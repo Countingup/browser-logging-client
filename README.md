@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> You don't need this package if you're using Cypress - [Test Replay](https://docs.cypress.io/cloud/features/test-replay#How-Test-Replay-Works) includes this functionality.
+
 # browser-logging-client
 
 Sends browser logs to [browser-logging-server](https://www.npmjs.com/package/browser-logging-server). PLEASE NOTE the server package is no longer maintained and the repository has been archived.
